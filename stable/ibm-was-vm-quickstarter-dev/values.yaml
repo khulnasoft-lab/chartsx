@@ -47,7 +47,7 @@ console:
 dashboard:
   image:
     repository: "ibmcom/wasaas-dashboard"
-    tag: "2.0.3"
+    tag: "2.0.5"
   ingress:
     path: "/wasaas-dashboard/"
 
