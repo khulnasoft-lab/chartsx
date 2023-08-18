@@ -54,7 +54,7 @@ dashboard:
 broker:
   image:
     repository: "ibmcom/wasaas-wasdevaas"
-    tag: "2.0.3"
+    tag: "2.0.5"
   ingress:
     path: "/wasaas-broker/"
 
