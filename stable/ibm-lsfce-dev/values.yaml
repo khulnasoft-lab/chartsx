@@ -49,4 +49,4 @@ mariadb:
   password: passw0rd
   image:
     repository: ibmcom/mariadb 
-    tag: 10.1.16
+    tag: 10.2.19
