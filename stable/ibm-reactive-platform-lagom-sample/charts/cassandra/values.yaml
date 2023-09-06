@@ -1,6 +1,6 @@
 image:
   repository: "cassandra"
-  tag: "3.11.15"
+  tag: "3.11.16"
   pullPolicy: IfNotPresent
 arch: amd64
 cassandra:
