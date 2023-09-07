@@ -23,7 +23,7 @@ bigIp:
 
 image:
   repository: "f5networks/k8s-bigip-ctlr"
-  tag: "1.6.0"
+  tag: "1.14.2"
   pullPolicy: "IfNotPresent"
 
 resources:
