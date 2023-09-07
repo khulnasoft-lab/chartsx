@@ -68,7 +68,7 @@ cloudsm:
 devops:
   image:
     repository: "ibmcom/wasaas-devops"
-    tag: "2.0.3"
+    tag: "2.0.5"
 
 couchdb:
     image:
