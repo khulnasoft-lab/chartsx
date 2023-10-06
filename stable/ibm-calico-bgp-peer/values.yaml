@@ -12,7 +12,7 @@ etcd:
 
 image:
   repository: "calico/ctl"
-  tag: "v3.1.3"
+  tag: "v3.26.3"
   pullPolicy: "IfNotPresent"
 
 # Specify architecture (amd64, ppc64le, s390x) and weight to be  used for scheduling as follows : 
